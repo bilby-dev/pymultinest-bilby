@@ -5,7 +5,11 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "pymultinest-bilby"
 authors = [
-    {name = "Michael J. Williams", email = "michaeljw1@googlemail.com"},
+    {name = "Bilby Developers"},
+]
+maintainers = [
+    {name = "Colm Talbot", email = "colm.talbot@ligo.org"},
+    {name = "Michael J. Williams", email = "michael.williams@ligo.org"},
 ]
 description = "Plugin for using pymultinest with bilby."
 readme = "README.md"
