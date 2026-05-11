@@ -7,9 +7,9 @@ Once installed, you can select it in `bilby.run_sampler` using `sampler='pymulti
 
 ## Installation
 
-## Using pip
+### Using pip
 
-The package can be install using pip
+The package can be installed using pip
 
 ```
 pip install pymultinest-bilby
@@ -22,7 +22,7 @@ either following the instructions [here](https://johannesbuchner.github.io/PyMul
 conda install conda-forge:multinest
 ```
 
-## Using conda
+### Using conda
 
 Since `multinest` is available via conda-forge, the package can be installed
 directly:
